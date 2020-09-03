@@ -1,12 +1,2 @@
-# Battle-of-hogwarts
-This is a game made in python language based on the battle of Hogwarts fought in the movie/book Harry potter and the deathly hallows.
-
-Characters:
-
-Harry, 
-Neville, 
-Stag (james)
-
-Voldemort,
-Nagini, 
-Bellatrix
+The quest for horcruxes
+This is a Harry Potter trivia game, in which you help harry destroy the horcruxes and finally Voldemort by giving the correct answers.
